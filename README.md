@@ -50,8 +50,6 @@ Users should be able to:
 
 Fun time using Bootstrap (for layout Grid) and Tailwind (for endless styling with no CSS code)
 
-To see how you can add code snippets, see below:
-
 ```html
     <header>
       <div class="container pt-28 text-center">
